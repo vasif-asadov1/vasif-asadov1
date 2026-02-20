@@ -20,7 +20,7 @@ efficiencies.
 
 ## Contact Me
 
-Feel free to reach out via email [to me](vasif.asadov.1828@gmail.com)
+Feel free to reach out via email <a href="mailto:vasif.asadov.1828@gmail.com">[get me]</a>
 
 <a href="https://www.linkedin.com/in/vasif-asadov1/"><img weight="50" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzkdhUAWbt5eOWbMDew-RRPLb_dVEBsJt96JBfLMUYLw&s"></a>
 
