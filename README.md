@@ -1,8 +1,10 @@
 
-# Welcome to My GitHub Profile!
+# <div align='center'><h><b>Vasif Asadov</b></h></div>
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vasif-asadov1&label=Profile%20views&color=0e75b6&style=flat" alt="vasif-asadov1" /> </p>
 
 
-## About Me
+## 👋 About Me
 
 Data Scientist with experience in machine learning, statistics and knowledge in big data.
 Skilled in recording, interpreting, and analyzing data in a fast-paced environment. Deep
@@ -42,10 +44,10 @@ Feel free to reach out via email <a href="mailto:vasif.asadov.1828@gmail.com">[g
     <a href="https://opencv.org/resources/media-kit/" target="_blank"> <img alt="OpenCV" height="42px"  src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text-1.svg" /></a>
     <a href="https://pytorch.org/" target="_blank"> <img alt="PyTorch" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /></a> 
     
-       
+      
 </div>
 <br> <br> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vasif-asadov1&label=Profile%20views&color=0e75b6&style=flat" alt="vasif-asadov1" /> </p>
+
 
 
 
@@ -53,3 +55,13 @@ Feel free to reach out via email <a href="mailto:vasif.asadov.1828@gmail.com">[g
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vasif-asadov1&" alt="vasif-asadov1" /></p>
+
+## Projects
+- [DataTest](https://github.com/AzizNadirov/datatest) - simple data test library
+- [ParVu](https://github.com/AzizNadirov/ParVu) - GUI app for viewing and processing parquet files
+- [AZ: Python Road Book](https://github.com/AzizNadirov/python-road-book/tree/master) - Python Yolu kitabının faylları(nümunə kodları, data və həllər)
+- [ScrapyMonit](https://github.com/AzizNadirov/scrapy-monit) - web app for managing and scheduling scrapy instances (scrapyd instances) [DEV]
+- [Azure ML Pipeline Constructor](https://github.com/AzizNadirov/azuremlconstructor) - AzureML Pipeline constructor CLI tool, builds and submits AML pipelines.
+- and other non-actual repos...
+
+
