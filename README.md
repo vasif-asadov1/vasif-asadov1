@@ -28,23 +28,63 @@ Feel free to reach out via email <a href="mailto:vasif.asadov.1828@gmail.com">[g
 
 
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
 
+<!-- Language -->
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
 
- <summary align="left"><h2><img alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQ0Nzl0NXNvanRtZ2RhZ3QwdTRldG9haWdqMmE5eGQ5djZnM2w4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rH4STTV6GoiHT004rI/giphy.gif" width="25px"> Favorite languages and Tools </h2></summary>
- <div align="center">
-    <p></p> 
-    <a href="https://www.python.org/" target="_blank"> <img alt="Python" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
-     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-    <a href="https://pandas.pydata.org/" target="_blank"> <img alt="pandas" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /></a>  
-    <a href="https://numpy.org/" target="_blank"> <img alt="numpy" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /></a>
-    <a href="https://matplotlib.org/" target="_blank"> <img alt="matplotlib" height ="42px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" /></a> 
-    <a href="https://seaborn.pydata.org/#" target="_blank"> <img alt="seaborn" height ="42px"  src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" /></a> 
-    <a href="https://scikit-learn.org/stable/" target="_blank"> <img alt="scikit-learn" height ="42px"  src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /></a>  
-    <a href="https://git-scm.com/" target="_blank"> <img alt="GIT" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
-    <a href="https://opencv.org/resources/media-kit/" target="_blank"> <img alt="OpenCV" height="42px"  src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text-1.svg" /></a>
-    <a href="https://pytorch.org/" target="_blank"> <img alt="PyTorch" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /></a> 
-    
-      
+<!-- Data & ML Libraries -->
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+</a>
+
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+</a>
+
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+</a>
+
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+</a>
+
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+</a>
+
+<!-- BI & Analytics Tools -->
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
+</a>
+
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/>
+</a>
+
+<a href="https://www.ibm.com/products/spss-statistics" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/IBM_SPSS_Statistics_logo.svg" alt="spss" width="40" height="40"/>
+</a>
+
+<!-- Cloud & Dev Tools -->
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>
+
+<!-- Database -->
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+</a>
+
+</p>
 </div>
 <br> <br> 
 
@@ -55,13 +95,3 @@ Feel free to reach out via email <a href="mailto:vasif.asadov.1828@gmail.com">[g
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vasif-asadov1&" alt="vasif-asadov1" /></p>
-
-## Projects
-- [DataTest](https://github.com/AzizNadirov/datatest) - simple data test library
-- [ParVu](https://github.com/AzizNadirov/ParVu) - GUI app for viewing and processing parquet files
-- [AZ: Python Road Book](https://github.com/AzizNadirov/python-road-book/tree/master) - Python Yolu kitabının faylları(nümunə kodları, data və həllər)
-- [ScrapyMonit](https://github.com/AzizNadirov/scrapy-monit) - web app for managing and scheduling scrapy instances (scrapyd instances) [DEV]
-- [Azure ML Pipeline Constructor](https://github.com/AzizNadirov/azuremlconstructor) - AzureML Pipeline constructor CLI tool, builds and submits AML pipelines.
-- and other non-actual repos...
-
-
