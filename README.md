@@ -45,3 +45,11 @@ Feel free to reach out via email <a href="mailto:vasif.asadov.1828@gmail.com">[g
        
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vasif-asadov1&label=Profile%20views&color=0e75b6&style=flat" alt="vasif-asadov1" /> </p>
+
+
+
+
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vasif-asadov1&" alt="vasif-asadov1" /></p>
