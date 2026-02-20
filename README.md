@@ -44,5 +44,4 @@ Feel free to reach out via email [to me](vasif.asadov.1828@gmail.com)
     
        
 </div>
-</details>
-<details>
+
