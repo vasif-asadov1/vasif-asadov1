@@ -42,7 +42,7 @@ Feel free to reach out via email <a href="mailto:vasif.asadov.1828@gmail.com">[g
 </a>
 
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  <img src="https://e7.pngegg.com/pngimages/39/4/png-clipart-logo-scikit-learn-python-github-machine-learning-text-orange.png" alt="scikit_learn" width="40" height="40"/>
 </a>
 
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
@@ -59,15 +59,15 @@ Feel free to reach out via email <a href="mailto:vasif.asadov.1828@gmail.com">[g
 
 <!-- BI & Analytics Tools -->
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/960px-New_Power_BI_Logo.svg.png?20210102182532" alt="powerbi" width="40" height="40"/>
 </a>
 
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/>
+  <img src="https://w7.pngwing.com/pngs/674/247/png-transparent-tableau-software-computer-software-data-visualization-nyse-data-business-intelligence-software-software-company-symmetry-cross-thumbnail.png" alt="tableau" width="40" height="40"/>
 </a>
 
 <a href="https://www.ibm.com/products/spss-statistics" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/IBM_SPSS_Statistics_logo.svg" alt="spss" width="40" height="40"/>
+  <img src="https://p1.hiclipart.com/preview/895/365/96/macos-app-icons-spss-4-png-icon.jpg" alt="spss" width="40" height="40"/>
 </a>
 
 <!-- Cloud & Dev Tools -->
