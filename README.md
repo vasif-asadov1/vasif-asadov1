@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasif-asadov1/)
 [![Portfolio](https://img.shields.io/badge/Website-111827?style=flat-square&logo=githubpages&logoColor=white)](https://vasif-asadov1.github.io/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vasif.asadov.1828@gmail.com)
 [![Microsoft PL‑300](https://img.shields.io/badge/Microsoft_PL--300-Power_BI_Data_Analyst_Associate-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://learn.microsoft.com/en-us/certifications/power-bi-data-analyst-associate/)
 
 </div>
