@@ -150,7 +150,9 @@ Offline Quran verse search and PDF export application with a premium royal-theme
 
 - 🏆 **Microsoft PL-300** — Power BI Data Analyst Associate *(valid through 2027)*
 - 📜 **Full Stack Data Scientist Certificate** — Data Science Academy
+- 📊 **CDS-ES Talent Score: 93.70 / 100** — Data Science Academy · [View Report](./vasif_asadov_talent_report.pdf)
 - 📜 **Advanced SQL Certificate** — BTK Akademi
+
 
 ---
 
