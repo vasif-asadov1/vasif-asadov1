@@ -12,7 +12,7 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 I'm a data professional and M.Sc. candidate at Yıldız Technical University (Istanbul), building end-to-end data pipelines and ML solutions while completing a thesis on **AI-Based Model Predictive Control of Nonlinear Systems**.
 
@@ -24,29 +24,23 @@ Beyond data, I use AI as a force multiplier for software development — I lead 
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-**Languages**
-`Python` · `SQL (T-SQL, DuckDB)` · `R`
+**Languages** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
-**BI & Visualization**
-`Power BI` · `Tableau` · `Plotly Dash` · `Matplotlib` · `Seaborn` · `Apache Superset` · `Excel` · `SPSS`
+**BI & Visualization** ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Plotly Dash](https://img.shields.io/badge/Plotly_Dash-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square) ![Apache Superset](https://img.shields.io/badge/Apache_Superset-00A699?style=flat-square&logo=apache&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![SPSS](https://img.shields.io/badge/SPSS-CC0000?style=flat-square&logo=ibm&logoColor=white)
 
-**Data Engineering**
-`Snowflake` · `dbt` · `AWS S3` · `AWS IAM` · `DuckDB` · `Docker` · `GitHub Actions (CI/CD)`
+**Data Engineering** ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white) ![AWS IAM](https://img.shields.io/badge/AWS_IAM-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
-**Machine Learning**
-`Scikit-learn` · `XGBoost` · `LightGBM` · `SHAP` · `Pandas` · `Streamlit`
+**Machine Learning** ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-1793D1?style=flat-square) ![LightGBM](https://img.shields.io/badge/LightGBM-ffdb58?style=flat-square&logoColor=black) ![SHAP](https://img.shields.io/badge/SHAP-1E88E5?style=flat-square) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
-**Documentation & Web**
-`LaTeX` · `Typst` · `Quarto` · `Markdown` · `Website with Astro`
+**Documentation & Web** ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white) ![Typst](https://img.shields.io/badge/Typst-239DAD?style=flat-square) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
 
-**Desktop Development**
-`PyQt6` · `PySide6` · `PyInstaller` · `Object Oriented Programming`
+**Desktop Development** ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white) ![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white) ![PyInstaller](https://img.shields.io/badge/PyInstaller-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### 🏗️ E-commerce Cloud Analytics Pipeline
 > *AWS S3 · Snowflake · dbt · Databricks · MLflow · Power BI*
@@ -55,7 +49,7 @@ End-to-end cloud data pipeline built on the **Olist e-commerce dataset**, struct
 
 `AWS S3` `IAM` `Snowflake` `dbt` `Databricks` `MLflow` `Power BI` `SHAP` `Spark ML`
 
----
+<br>
 
 ### 🏦 Home Credit Default Risk Analysis & Prediction
 > *Python · DuckDB · XGBoost · LightGBM · SHAP*
@@ -64,7 +58,7 @@ Credit risk modeling on a **307,511-customer dataset** spanning 7+ relational ta
 
 `DuckDB` `XGBoost` `LightGBM` `Scikit-learn` `SHAP` `WoE Encoding` `Stratified K-Fold CV`
 
----
+<br>
 
 ### 📉 Customer Churn Prediction — Telecom
 > *Python · Scikit-learn · XGBoost · LightGBM · Streamlit*
@@ -73,7 +67,7 @@ End-to-end ML pipeline predicting telecom customer churn. Includes Chi-Square an
 
 `Scikit-learn` `XGBoost` `LightGBM` `SHAP` `SMOTE` `Streamlit` `Pipelines`
 
----
+<br>
 
 ### 📊 B2C Sales Analysis — AdventureWorks DW
 > *SQL Server · T-SQL · Tableau · Docker*
@@ -82,19 +76,18 @@ Full analytical workflow on the AdventureWorksDW2022 dataset, scoped exclusively
 
 `SQL Server` `T-SQL` `Docker` `Tableau` `Star Schema` `Data Modeling`
 
----
+<br>
 
 ### 📦 pysqdb — PyPI Package
 > *Python · DuckDB · GitHub Actions*
 
 Open-source Python library published on **PyPI** (`pip install pysqdb`) that wraps DuckDB with a Pandas-like declarative API. Provides zero-copy views, SQL-native imputation, outlier handling, multi-table joins via Python dicts, window functions, and aggregation pipelines — all designed for large datasets that exceed RAM. CI/CD via **GitHub Actions** automates testing and publishing on every release.
 
-[![PyPI](https://img.shields.io/pypi/v/pysqdb?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/pysqdb/)
-[![GitHub](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/vasif-asadov1/pysqdb)
+[![PyPI](https://img.shields.io/pypi/v/pysqdb?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/pysqdb/) [![GitHub](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/vasif-asadov1/pysqdb)
 
 `DuckDB` `Python` `PyPI` `GitHub Actions` `CI/CD`
 
----
+<br>
 
 ### 🗣️ Language Learner — Desktop App *(AI-Augmented)*
 > *Python · PyQt6 · SQLite · PyInstaller*
@@ -105,7 +98,7 @@ Cross-platform desktop translation and vocabulary app with **zero ads, zero subs
 
 `PyQt6` `SQLite` `ReportLab` `PyInstaller` `Cross-platform`
 
----
+<br>
 
 ### 🌙 AyahFinder Royal Edition — Desktop App *(AI-Augmented)*
 > *Python · PySide6 · QTextDocument · GitHub Actions*
@@ -118,28 +111,25 @@ Offline Quran verse search and PDF export application with a premium royal-theme
 
 ---
 
-## Education
+## 🎓 Education
 
 | Degree | Institution | Period | Scholarship |
 |---|---|---|---|
 | M.Sc. Control & Automation Engineering | Yıldız Technical University, Istanbul | 2024 – Present | 🇹🇷 Fully Funded Turkish Government Scholarship |
 | B.Sc. Process & Automation Engineering | Baku Higher Oil School, Azerbaijan | 2018 – 2023 | 🇦🇿 Azerbaijan Presidential Scholarship · GPA 3.5/4.0 |
 
-**M.Sc. Thesis:** *AI-Based Model Predictive Control of Nonlinear Systems*
-**Relevant coursework:** Machine Learning & Neural Networks · Computer Vision in Control Systems · Reinforcement Learning
+**M.Sc. Thesis:** *AI-Based Model Predictive Control of Nonlinear Systems* **Relevant coursework:** Machine Learning & Neural Networks · Computer Vision in Control Systems · Reinforcement Learning
 
 ---
 
-## Experience
+## 💼 Experience
 
-**Data Scientist Intern** — *Data Science Academy* · Remote · Aug 2025 – Feb 2026
-- Built Power BI and Tableau dashboards for KPI monitoring and stakeholder reporting
+**Data Scientist Intern** — *Data Science Academy* *Remote · Aug 2025 – Feb 2026* - Built Power BI and Tableau dashboards for KPI monitoring and stakeholder reporting
 - Automated SQL + Python pipelines for data processing and reporting workflows
 - Conducted A/B testing and statistical analysis across product and marketing datasets
 - Completed comprehensive EDA and predictive modeling across multiple business domains
 
-**Data Management Intern** — *SOCAR R&D Institute of Oil and Gas* · Baku · Mar – May 2023
-- Managed and optimized industrial sensor data in Microsoft SQL Server
+**Data Management Intern** — *SOCAR R&D Institute of Oil and Gas* *Baku · Mar – May 2023* - Managed and optimized industrial sensor data in Microsoft SQL Server
 - Developed automated SQL triggers for threshold-based anomaly alerting
 - Created documentation for data management processes to ensure operational continuity
 
@@ -159,63 +149,9 @@ Offline Quran verse search and PDF export application with a premium royal-theme
 - **Advanced SQL Certificate** — *BTK Akademi*
   [![View Certificate](https://img.shields.io/badge/View_Certificate-20232a?style=flat-square)](./sql_certificate.pdf)
 
-
 ---
 
-
-## Tech Stack
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL_(T--SQL,_DuckDB)-4479A1?style=flat-square&logo=sqlite&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-
-**BI & Visualization**  
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Plotly Dash](https://img.shields.io/badge/Plotly_Dash-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
-![Apache Superset](https://img.shields.io/badge/Apache_Superset-00A699?style=flat-square&logo=apache&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![SPSS](https://img.shields.io/badge/SPSS-CC0000?style=flat-square&logo=ibm&logoColor=white)
-
-**Data Engineering**  
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![AWS IAM](https://img.shields.io/badge/AWS_IAM-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-**Machine Learning**  
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-1793D1?style=flat-square)
-![LightGBM](https://img.shields.io/badge/LightGBM-ffdb58?style=flat-square&logoColor=black)
-![SHAP](https://img.shields.io/badge/SHAP-1E88E5?style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-**Documentation & Web**  
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-![Typst](https://img.shields.io/badge/Typst-239DAD?style=flat-square)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-**Desktop Development**  
-![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white)
-![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white)
-![PyInstaller](https://img.shields.io/badge/PyInstaller-3776AB?style=flat-square&logo=python&logoColor=white)
-
-
----
-
-
-
-
-
+<br>
 
 <div align="center">
 
