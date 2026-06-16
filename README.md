@@ -39,10 +39,10 @@ Beyond data, I use AI as a force multiplier for software development — I lead 
 `Scikit-learn` · `XGBoost` · `LightGBM` · `SHAP` · `Pandas` · `Streamlit`
 
 **Documentation & Web**
-`LaTeX` · `Typst` · `Quarto` · `Markdown` · `Astro` · `Tailwind CSS`
+`LaTeX` · `Typst` · `Quarto` · `Markdown` · `Website with Astro`
 
 **Desktop Development**
-`PyQt6` · `PySide6` · `PyInstaller`
+`PyQt6` · `PySide6` · `PyInstaller` · `Object Oriented Programming`
 
 ---
 
@@ -161,6 +161,61 @@ Offline Quran verse search and PDF export application with a premium royal-theme
 
 
 ---
+
+
+## Tech Stack
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL_(T--SQL,_DuckDB)-4479A1?style=flat-square&logo=sqlite&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+
+**BI & Visualization**  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Plotly Dash](https://img.shields.io/badge/Plotly_Dash-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
+![Apache Superset](https://img.shields.io/badge/Apache_Superset-00A699?style=flat-square&logo=apache&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-CC0000?style=flat-square&logo=ibm&logoColor=white)
+
+**Data Engineering**  
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS_IAM-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Machine Learning**  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-1793D1?style=flat-square)
+![LightGBM](https://img.shields.io/badge/LightGBM-ffdb58?style=flat-square&logoColor=black)
+![SHAP](https://img.shields.io/badge/SHAP-1E88E5?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**Documentation & Web**  
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Typst](https://img.shields.io/badge/Typst-239DAD?style=flat-square)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Desktop Development**  
+![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white)
+![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white)
+![PyInstaller](https://img.shields.io/badge/PyInstaller-3776AB?style=flat-square&logo=python&logoColor=white)
+
+
+---
+
+
+
+
+
 
 <div align="center">
 
