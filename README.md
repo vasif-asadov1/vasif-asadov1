@@ -145,12 +145,19 @@ Offline Quran verse search and PDF export application with a premium royal-theme
 
 ---
 
-## Certifications
+## 🏆 Certifications & Achievements
 
-- 🏆 **Microsoft PL-300** — Power BI Data Analyst Associate *(valid through 2027)*
-- 📜 **Full Stack Data Scientist Certificate** — Data Science Academy
-- 📊 **CDS-ES Talent Score: 93.70 / 100** — Data Science Academy · [View Report](./vasif_asadov_talent_report.pdf)
-- 📜 **Advanced SQL Certificate** — BTK Akademi
+- **Microsoft PL-300: Power BI Data Analyst Associate**
+  [![View Certificate](https://img.shields.io/badge/View_Certificate-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-gb/users/vasifasadov-7830/credentials/bab06564ef6569ee?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+
+- **Data Scientist Certificate** — *Data Science Academy*
+  [![View Certificate](https://img.shields.io/badge/View_Certificate-20232a?style=flat-square)](./data_science_academy_certificate.pdf)
+
+- **CDS-ES Talent Score: Technical Skills 93.70 / 100 | Overall 84 / 100** — *Data Science Academy & QSS Analytics & Data Talent*
+  [![View Report](https://img.shields.io/badge/View_Report-20232a?style=flat-square)](./vasif_asadov_talent_report.pdf)
+
+- **Advanced SQL Certificate** — *BTK Akademi*
+  [![View Certificate](https://img.shields.io/badge/View_Certificate-20232a?style=flat-square)](./sql_certificate.pdf)
 
 
 ---
