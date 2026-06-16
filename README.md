@@ -6,13 +6,13 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasif-asadov1/)
 [![Portfolio](https://img.shields.io/badge/Website-111827?style=flat-square&logo=githubpages&logoColor=white)](https://vasif-asadov1.github.io/)
-[![Microsoft PL‑300](https://img.shields.io/badge/Microsoft_PL--300-Power_BI_Data_Analyst_Associate-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://learn.microsoft.com/en-us/certifications/power-bi-data-analyst-associate/)
+[![Microsoft PL‑300](https://img.shields.io/badge/Microsoft_PL--300-Power_BI_Data_Analyst_Associate-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://learn.microsoft.com/en-gb/users/vasifasadov-7830/credentials/bab06564ef6569ee?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a data professional and M.Sc. candidate at Yıldız Technical University (Istanbul), building end-to-end data pipelines and ML solutions while completing a thesis on **AI-Based Model Predictive Control of Nonlinear Systems**.
 
@@ -24,7 +24,7 @@ Beyond data, I use AI as a force multiplier for software development — I lead 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
@@ -40,7 +40,7 @@ Beyond data, I use AI as a force multiplier for software development — I lead 
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🏗️ E-commerce Cloud Analytics Pipeline
 > *AWS S3 · Snowflake · dbt · Databricks · MLflow · Power BI*
@@ -118,7 +118,7 @@ Offline Quran verse search and PDF export application with a premium royal-theme
 | M.Sc. Control & Automation Engineering | Yıldız Technical University, Istanbul | 2024 – Present | 🇹🇷 Fully Funded Turkish Government Scholarship |
 | B.Sc. Process & Automation Engineering | Baku Higher Oil School, Azerbaijan | 2018 – 2023 | 🇦🇿 Azerbaijan Presidential Scholarship · GPA 3.5/4.0 |
 
-**M.Sc. Thesis:** *AI-Based Model Predictive Control of Nonlinear Systems* **Relevant coursework:** Machine Learning & Neural Networks · Computer Vision in Control Systems · Reinforcement Learning
+**M.Sc. Thesis:** *AI-Based Model Predictive Control of Nonlinear Systems* 
 
 ---
 
