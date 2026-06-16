@@ -6,7 +6,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasif-asadov1/)
 [![Portfolio](https://img.shields.io/badge/Website-111827?style=flat-square&logo=githubpages&logoColor=white)](https://vasif-asadov1.github.io/)
-[![Microsoft PL‑300](https://img.shields.io/badge/Microsoft_PL--300-Power_BI_Data_Analyst_Associate-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://learn.microsoft.com/en-gb/users/vasifasadov-7830/credentials/bab06564ef6569ee?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@data_insights_vasif)
+[![Microsoft PL‑300](https://img.shields.io/badge/Microsoft_PL--300-Power_BI_Data_Analyst_Associate-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://learn.microsoft.com/en-us/certifications/power-bi-data-analyst-associate/)
 
 </div>
 
