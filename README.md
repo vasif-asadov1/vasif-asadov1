@@ -2,7 +2,7 @@
 
 # Vasif Asadov
 
-**Data Analyst · Data Engineer · AI-Augmented Developer**
+**Data Analyst ·  Data Scientist · Data Engineer · AI-Augmented Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasif-asadov1/)
 [![Portfolio](https://img.shields.io/badge/Website-111827?style=flat-square&logo=githubpages&logoColor=white)](https://vasif-asadov1.github.io/)
